@@ -1,0 +1,7 @@
+{
+    "name": "W0TG",
+    "description": "WolframAlpha Telegram Bot",
+    "keywords": ["WolframAlpha"],
+    "repository": "https://github.com/UG40A/WolframAlphaBot/",
+    "stack": "container"
+}
